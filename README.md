@@ -1,8 +1,8 @@
-# CALGI: Genotype Data Imputation using KMeans Clustering and Convolutional Autoencoder
+# ALGI2: Genotype Data Imputation using KMeans Clustering and Convolutional Autoencoder
 
 ## Overview
 
-        CALGI (Clustering and Autoencoder-based Genotype Imputation) is a project designed to fill in missing values in genotype data using KMeans clustering and Convolutional Autoencoder. Simply input a genotype matrix and the original number of clusters (k), and the tool will handle the rest.
+        ALGI2 is a project designed to fill in missing values in genotype data using KMeans clustering and Convolutional Autoencoder. Simply input a genotype matrix and the original number of clusters (k), and the tool will handle the rest.
 
 
 
@@ -23,11 +23,11 @@
 
 ### 1. Clone the repository
         
-        git clone https://github.com/Bingxi-Gao/CALGI.git
+        git clone https://github.com/Bingxi-Gao/ALGI2.git
                 
 ###  2. Change to the project directory
         
-        cd CALGI
+        cd ALGI2
                 
 ### 3.  Create a virtual environment
         
@@ -59,7 +59,7 @@
 
 ## Project Structure
 
-- CALGI.ipynb: Jupyter Notebook containing the code for data preprocessing, clustering, and autoencoder model training and imputation.
+- ALGI2.ipynb: Jupyter Notebook containing the code for data preprocessing, clustering, and autoencoder model training and imputation.
 
 ## Detailed Steps
 
