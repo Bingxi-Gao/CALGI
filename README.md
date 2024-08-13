@@ -53,7 +53,7 @@
 
         1. Prepare Input Data: Ensure your genotype data is in one of the supported formats (CSV, Feather, VCF, etc.).
         
-        2. Run Jupyter Notebook: Open the CALGI.ipynb notebook.
+        2. Run Jupyter Notebook: Open the ALGI2.ipynb notebook.
         
         3. Execute Cells: Run the cells in the notebook in sequence to process your data and perform the imputation.
 
